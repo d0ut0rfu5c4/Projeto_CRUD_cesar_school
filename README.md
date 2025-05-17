@@ -1,0 +1,1 @@
+Mais um projeto da disciplina de introdução a análise de dados, da turma 2025.1 da pós-graduação em Engenharia e análise de dados, onde nos foi proposto o desafio de criação de um banco de dados simples de escola, utilizando a linguagem SQL e o software MYSQL Workbench 8.0
